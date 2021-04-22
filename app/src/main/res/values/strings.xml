@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Sang_Chalo</string>
+    <string name="facebook_appid">197802998033113</string>
+    <string name="Firstname">First Name</string>
+    <string name="lastname">Last Name</string>
+    <string name="enteremail">Email address</string>
+    <string name="Enterphoneno">Phone number</string>
+    <string name="EnterAadharno">Aadhar number</string>
+    <string name="Femaleid">Female</string>
+    <string name="Maleid">Male</string>
+    <string name="signin">Sign in</string>
+    <string name="Gender">Gender</string>
+    <string name="Yourlocation">Your location</string>
+    <string name="Goingto">Going to...</string>
+    <string name="Getride">Get ride</string>
+    <string name="Offerride">Offer Ride</string>
+    <string name="yourlocation">Your location</string>
+    <string name="goingto">Going to...</string>
+    <string name="getride">Get ride</string>
+    <string name="offerride">offer ride</string>
+    <string name="UserName">User Name</string>
+    <string name="vehicalType">Vehical type i.e(Car/Bike/Scooty)</string>
+    <string name="vehiclecompany">Vehicle company i.e.(BMW/Audi)</string>
+    <string name="vehicleName">Vehicle name</string>
+    <string name="color">Vehicle color</string>
+    <string name="vehicleNumber">Vehicle Number</string>
+    <string name="state">Enter State</string>
+    <string name="city">Enter City</string>
+    <string name="idproof">Add Driving licience</string>
+    <string name="photoinput">photo input button</string>
+    <string name="RCproof">Add vehicel RC book</string>
+    <string name="RCProff">Add RC book</string>
+    <string name="confirmbutton">confirm</string>
+    <string name="title_activity_status">status</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+
+</resources>
